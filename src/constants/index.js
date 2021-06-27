@@ -1,0 +1,1 @@
+export const API_URL = process.env.REACT_APP_APP_KEY || 'https://noob-api.glitch.me/api/v1'
